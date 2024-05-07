@@ -24,3 +24,4 @@ Este proyecto es un convertidor de monedas escrito en Java que utiliza la API Ex
 </ol>
    
 <h2> Ejemplo de uso </h2>
+![screenshot] (https://github.com/DanniiRiiv/conversorMonedas/blob/master/imagen_2024-05-07_155643861.png)
